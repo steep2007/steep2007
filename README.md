@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=steep2007&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=steep2007&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)-->
 
 ## ❣️ Hi, my name is <strong>Stephani!</strong>
 
