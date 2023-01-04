@@ -1,6 +1,6 @@
 ## ❣️ Hi, my name is <strong>Stephani!</strong>
 
-> Hello, my name is Stephani, I am a student Computer Technician at Federal Institute of Mato Grosso do Sul, currently I'm focused on developing my programming skills. At present, I'm currently studying Python and web development.
+> Hello, my name is Stephani, I am a student Computer Technician at Federal Institute of Mato Grosso do Sul, currently I'm focused on developing my programming skills. At present, I'm studying Python and web development.
 
 💬 Contact me
 
