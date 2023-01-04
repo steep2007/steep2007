@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=steep2007&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ## ❣️ Hi, my name is <strong>Stephani!</strong>
 
 > Hello, my name is Stephani, I am a student Computer Technician at Federal Institute of Mato Grosso do Sul, currently I'm focused on developing my programming skills. At present, I'm studying Python and web development.
