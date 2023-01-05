@@ -11,6 +11,9 @@
  <a id="linkedin" href="https://www.linkedin.com/in/stephani-borges-29962b242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="_" />
   </a>
+  <a id="lattes" href="http://lattes.cnpq.br/5917331321471535" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&logo=lattes&logoColor=white" alt="_" />
+  </a>
 
 
 ----
