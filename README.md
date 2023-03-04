@@ -6,9 +6,8 @@
 
 💬 Contact me
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/moon.stee/)
 <a href = "mailto:stephanigithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a id="linkedin" href="https://www.linkedin.com/in/stephani-borges-29962b242/" target="_blank">
+ <a id="linkedin" href="https://www.linkedin.com/in/stephani-borges-16a712268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="_" />
   </a>
   <a id="lattes" href="http://lattes.cnpq.br/5917331321471535" target="_blank">
